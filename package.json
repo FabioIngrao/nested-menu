@@ -1,11 +1,11 @@
 {
-  "name": "nested-menu",
+  "name": "@fabioingrao/nested-menu",
   "version": "1.0.2",
   "description": "Infinite nested material menus",
   "main": "src/index.tsx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FabioIngrao/nested-menu"
+    "url": "git+https://github.com/FabioIngrao/nested-menu.git"
   },
   "scripts": {
     "test": "echo \"No units tests.\"",
@@ -25,7 +25,7 @@
     "material-ui",
     "nested menu item"
   ],
-  "author": "Adam Zmenak <adam.zmenak@gmail.com>",
+  "author": "Fabio Ingrao <fabio.ingrao@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.8.3",
@@ -75,5 +75,10 @@
         "@pika/plugin-build-web"
       ]
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/FabioIngrao/nested-menu/issues"
+  },
+  "homepage": "https://github.com/FabioIngrao/nested-menu#readme",
+  "dependencies": {}
 }
