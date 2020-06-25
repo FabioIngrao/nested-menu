@@ -1,10 +1,10 @@
 {
-  "name": "material-ui-nested-menu-item",
+  "name": "nested-menu",
   "version": "1.0.2",
   "description": "Infinite nested material menus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azmenak/material-ui-nested-menu-item"
+    "url": "https://github.com/FabioIngrao/nested-menu"
   },
   "scripts": {
     "test": "echo \"No units tests.\"",
