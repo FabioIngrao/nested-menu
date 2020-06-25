@@ -1,6 +1,6 @@
 {
   "name": "@fabioingrao/nested-menu",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Infinite nested material menus",
   "main": "src/index.tsx",
   "repository": {
