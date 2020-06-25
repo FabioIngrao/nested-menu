@@ -2,6 +2,7 @@
   "name": "nested-menu",
   "version": "1.0.2",
   "description": "Infinite nested material menus",
+  "main": "src/index.tsx",
   "repository": {
     "type": "git",
     "url": "https://github.com/FabioIngrao/nested-menu"
