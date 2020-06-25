@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
+    "strict": false,
     "module": "esnext",
     "target": "es2019",
     "esModuleInterop": true,
     "noUnusedLocals": true,
     "noUnusedParameters": false,
-    "alwaysStrict": true,
+    "alwaysStrict": false,
     "strictNullChecks": true,
     "noImplicitAny": true,
     "moduleResolution": "node",
